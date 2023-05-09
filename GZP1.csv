@@ -1,18 +1,18 @@
-Period,2021 г.,2020 г.,2019 г.
-Revenue,6 388 987 167,4 061 444 118,4 758 711 459
-Cost of sales,-2 748 528 303,-2 488 200 192,-2 657 654 354
-Gross profit/loss,3 640 458 864,1 573 243 926,2 101 057 105
-Selling expenses,-1 551 851 191,-1 450 860 856,-1 363 851 113
-Administrative expenses,-130 832 966,-111 347 165,-108 092 194
-Profit/loss from operations,1 957 774 707,11 035 905,629 113 798
-Income from investments in other companies,414 235 921,311 965 992,316 324 238
-Interest income,43 845 142,43 234 670,61 250 281
-Interest expense,-122 609 141,-115 261 363,-107 234 097
-Other income,2 003 191 990,1 067 386 497,1 060 079 172
-Other expenses,-1 087 201 134,-2 240 427 669,-1 048 579 909
-Profit/loss before tax',3 209 237 485,-922 065 968,910 953 483
-Income tax expense,-522 269 108,227 492 236,-187 389 340
-Current income tax expenseь,0,0,-186 767 702
-Deferred income tax expense,0,0,-621 638
-Other,-290 797,1 285 950,-2 309 528
-Net profit/loss,2 686 456 626,-706 925 987,651 124 114
+Period,2019,2020,2021
+Revenue,4 758 711 459,4 061 444 118,6 388 987 167
+Cost of sales,-2 657 654 354,-2 488 200 192,-2 748 528 303
+Gross profit/loss,2 101 057 105,1 573 243 926,3 640 458 864
+Selling expenses,-1 363 851 113,-1 450 860 856,-1 551 851 191
+Administrative expenses,-108 092 194,-111 347 165,-130 832 966
+Profit/loss from operations,629 113 798,11 035 905,1 957 774 707
+Income from investments in other companies,316 324 238,311 965 992,414 235 921
+Interest income,61 250 281,43 234 670,43 845 142
+Interest expense,-107 234 097,-115 261 363,-122 609 141
+Other income,1 060 079 172,1 067 386 497,2 003 191 990
+Other expenses,-1 048 579 909,-2 240 427 669,-1 087 201 134
+Profit/loss before tax',910 953 483,-922 065 968,3 209 237 485
+Income tax expense,-187 389 340,227 492 236,-522 269 108
+Current income tax expense—М,-186 767 702,0,0
+Deferred income tax expense,-621 638,0,0
+Other,-2 309 528,1 285 950,-290 797
+Net profit/loss,651 124 114,-706 925 987,2 686 456 626
